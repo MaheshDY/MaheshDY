@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mahesh Devalokam Yoganand
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning backend framework
 - 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me https://www.linkedin.com/in/mahesh-dy/
 
